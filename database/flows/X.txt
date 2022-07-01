@@ -1,0 +1,145 @@
+,Level,,production
+EU28,Sector,Agriculture,557587.8584813393
+EU28,Sector,Fuels mining,135518.83322893825
+EU28,Sector,Other mining,79026.82399998291
+EU28,Sector,Food production,1234383.075164677
+EU28,Sector,Textiles,344090.80250246683
+EU28,Sector,Paper,715993.630329492
+EU28,Sector,Fuels refining,616332.6804231607
+EU28,Sector,Chemicals and petrochemicals,1008330.8702139142
+EU28,Sector,"Metals, non-ferrous metals and non-metallic minerals",1321355.017170532
+EU28,Sector,Cement,125661.0392132691
+EU28,Sector,Other manufacturing,3854632.092827484
+EU28,Sector,Electricity,642929.1262157995
+EU28,Sector,Services,16766396.757309172
+EU28,Sector,Construction,2328222.752566566
+EU28,Sector,Transport,1447567.8374211472
+EU28,Sector,Waste treatment,226640.27909006737
+USA,Sector,Agriculture,473296.40086824924
+USA,Sector,Fuels mining,378235.09260361106
+USA,Sector,Other mining,76085.60574665845
+USA,Sector,Food production,966371.53166742
+USA,Sector,Textiles,185966.44625707713
+USA,Sector,Paper,608662.5925225388
+USA,Sector,Fuels refining,567083.6860320291
+USA,Sector,Chemicals and petrochemicals,1096229.8991166954
+USA,Sector,"Metals, non-ferrous metals and non-metallic minerals",762861.1453923685
+USA,Sector,Cement,73581.07792406465
+USA,Sector,Other manufacturing,3566950.577964639
+USA,Sector,Electricity,334862.4370749713
+USA,Sector,Services,22495768.935439933
+USA,Sector,Construction,1568776.1856679828
+USA,Sector,Transport,994313.7373289877
+USA,Sector,Waste treatment,141519.17181727907
+AS-P,Sector,Agriculture,887720.8234821795
+AS-P,Sector,Fuels mining,227191.76166220286
+AS-P,Sector,Other mining,109032.28217171936
+AS-P,Sector,Food production,804494.3705138043
+AS-P,Sector,Textiles,281969.4062477888
+AS-P,Sector,Paper,380697.90759557433
+AS-P,Sector,Fuels refining,537194.3715704645
+AS-P,Sector,Chemicals and petrochemicals,1225967.542292731
+AS-P,Sector,"Metals, non-ferrous metals and non-metallic minerals",1239868.655664424
+AS-P,Sector,Cement,29683.036179736257
+AS-P,Sector,Other manufacturing,3566776.014036405
+AS-P,Sector,Electricity,367024.4660704109
+AS-P,Sector,Services,9944367.494504593
+AS-P,Sector,Construction,1642196.9477555144
+AS-P,Sector,Transport,1068661.2460093065
+AS-P,Sector,Waste treatment,153461.87558455917
+CHN,Sector,Agriculture,1447109.0462370086
+CHN,Sector,Fuels mining,351036.15896351467
+CHN,Sector,Other mining,201395.83591561596
+CHN,Sector,Food production,1581463.1550738153
+CHN,Sector,Textiles,1677862.4098008985
+CHN,Sector,Paper,582946.2404821749
+CHN,Sector,Fuels refining,845851.0357308489
+CHN,Sector,Chemicals and petrochemicals,2362791.4363008724
+CHN,Sector,"Metals, non-ferrous metals and non-metallic minerals",3765930.4601416406
+CHN,Sector,Cement,124083.0265370724
+CHN,Sector,Other manufacturing,6566631.114086803
+CHN,Sector,Electricity,481503.42524527205
+CHN,Sector,Services,10879571.800480533
+CHN,Sector,Construction,3197108.3010440874
+CHN,Sector,Transport,608955.364237696
+CHN,Sector,Waste treatment,146100.78185927094
+RoW,Sector,Agriculture,821458.4839222971
+RoW,Sector,Fuels mining,591574.8344678286
+RoW,Sector,Other mining,157065.2822269727
+RoW,Sector,Food production,902670.0955002836
+RoW,Sector,Textiles,263036.1748597664
+RoW,Sector,Paper,380303.55982211116
+RoW,Sector,Fuels refining,444452.5563519689
+RoW,Sector,Chemicals and petrochemicals,583005.2962953511
+RoW,Sector,"Metals, non-ferrous metals and non-metallic minerals",788327.7019608704
+RoW,Sector,Cement,43892.863520942425
+RoW,Sector,Other manufacturing,1794660.7767837523
+RoW,Sector,Electricity,286926.20210877917
+RoW,Sector,Services,8727300.625510026
+RoW,Sector,Construction,1342845.5954579548
+RoW,Sector,Transport,781404.1811745893
+RoW,Sector,Waste treatment,263340.0047206932
+IND,Sector,Agriculture,601689.4540729733
+IND,Sector,Fuels mining,75794.41509024533
+IND,Sector,Other mining,18607.02640666758
+IND,Sector,Food production,273664.4372576041
+IND,Sector,Textiles,205201.18754896725
+IND,Sector,Paper,60836.73173971045
+IND,Sector,Fuels refining,225059.49260506834
+IND,Sector,Chemicals and petrochemicals,340517.48752538324
+IND,Sector,"Metals, non-ferrous metals and non-metallic minerals",302371.9831937576
+IND,Sector,Cement,23218.460223680286
+IND,Sector,Other manufacturing,524225.584540918
+IND,Sector,Electricity,107575.75374161405
+IND,Sector,Services,1351740.9231699186
+IND,Sector,Construction,559032.922046842
+IND,Sector,Transport,251029.29152698326
+IND,Sector,Waste treatment,69172.64485676507
+AUS,Sector,Agriculture,50413.348497013794
+AUS,Sector,Fuels mining,106439.20390229873
+AUS,Sector,Other mining,95119.95683814624
+AUS,Sector,Food production,55356.22373450394
+AUS,Sector,Textiles,4778.013954248225
+AUS,Sector,Paper,29077.33003275652
+AUS,Sector,Fuels refining,28224.636750711266
+AUS,Sector,Chemicals and petrochemicals,29295.21065000316
+AUS,Sector,"Metals, non-ferrous metals and non-metallic minerals",67314.08966830876
+AUS,Sector,Cement,6805.13671900462
+AUS,Sector,Other manufacturing,103408.35707880557
+AUS,Sector,Electricity,37964.19698766853
+AUS,Sector,Services,1312110.3116854555
+AUS,Sector,Construction,293020.9130971572
+AUS,Sector,Transport,72312.86367224189
+AUS,Sector,Waste treatment,19523.70929170069
+AFR,Sector,Agriculture,500573.721023472
+AFR,Sector,Fuels mining,151373.5286869176
+AFR,Sector,Other mining,77865.24168586357
+AFR,Sector,Food production,117355.92180921361
+AFR,Sector,Textiles,43387.264754556105
+AFR,Sector,Paper,49779.969140996036
+AFR,Sector,Fuels refining,60488.46230181465
+AFR,Sector,Chemicals and petrochemicals,77186.94555703527
+AFR,Sector,"Metals, non-ferrous metals and non-metallic minerals",114931.81596785171
+AFR,Sector,Cement,7889.682726521574
+AFR,Sector,Other manufacturing,304622.87545125256
+AFR,Sector,Electricity,47594.79943264826
+AFR,Sector,Services,1425945.4589898763
+AFR,Sector,Construction,325008.90627567866
+AFR,Sector,Transport,175176.62829524203
+AFR,Sector,Waste treatment,37438.90332587983
+MID,Sector,Agriculture,218420.2743019542
+MID,Sector,Fuels mining,433257.78613554314
+MID,Sector,Other mining,100639.41615421131
+MID,Sector,Food production,132705.8487346646
+MID,Sector,Textiles,50958.592566014384
+MID,Sector,Paper,75067.49662020456
+MID,Sector,Fuels refining,97548.83617457117
+MID,Sector,Chemicals and petrochemicals,157003.9624000562
+MID,Sector,"Metals, non-ferrous metals and non-metallic minerals",168594.1738773667
+MID,Sector,Cement,16486.216732573375
+MID,Sector,Other manufacturing,456013.32431101194
+MID,Sector,Electricity,122272.93055922387
+MID,Sector,Services,2283970.004335007
+MID,Sector,Construction,523313.0860806231
+MID,Sector,Transport,200887.8890818567
+MID,Sector,Waste treatment,19410.466840095396

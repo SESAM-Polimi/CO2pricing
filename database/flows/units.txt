@@ -1,0 +1,22 @@
+,,unit
+Sector,Agriculture,M EUR
+Sector,Fuels mining,M EUR
+Sector,Other mining,M EUR
+Sector,Food production,M EUR
+Sector,Textiles,M EUR
+Sector,Paper,M EUR
+Sector,Fuels refining,M EUR
+Sector,Chemicals and petrochemicals,M EUR
+Sector,"Metals, non-ferrous metals and non-metallic minerals",M EUR
+Sector,Cement,M EUR
+Sector,Other manufacturing,M EUR
+Sector,Electricity,M EUR
+Sector,Services,M EUR
+Sector,Construction,M EUR
+Sector,Transport,M EUR
+Sector,Waste treatment,M EUR
+Factor of production,Value Added,M EUR
+Satellite account,Employment,1000 p
+Satellite account,CO2,kg
+Satellite account,Water Consumption Blue,Mm3
+Satellite account,Energy,TJ
